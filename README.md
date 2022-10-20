@@ -1,14 +1,12 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
-
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
+# Full-stack course code examples
+This repo contains the code we do in class and also some more examples.
+it is being updated according to the class
 
 ### Setup command
 `npm install`
 
 ### Run command
-`npm test`
+`npm test` -> to run tests
 
 ### Notes
 - 
