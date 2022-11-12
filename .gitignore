@@ -1,7 +1,6 @@
 /.idea/
 /node_modules/
 /4_node_essentials/events/.gitignore
-/3_node_basics/
 /4_node_essentials/
 /5_express_asyncjs/
 /6_express_heroku/

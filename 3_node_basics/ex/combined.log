@@ -1,0 +1,3 @@
+{"level":"info","message":"GET","service":"my-http-service"}
+{"level":"info","message":"POST","service":"my-http-service"}
+{"level":"info","message":"PUT","service":"my-http-service"}
