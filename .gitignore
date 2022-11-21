@@ -1,7 +1,5 @@
 /.idea/
 /node_modules/
-/4_node_essentials/events/.gitignore
-/4_node_essentials/
 /5_express_asyncjs/
 /6_express_heroku/
 /7_mongo/
@@ -10,3 +8,4 @@
 /10_react_basics/
 /12_react_core/
 /13_react_core/
+/students/
