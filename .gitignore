@@ -1,9 +1,11 @@
+.idea
+node_modules
+.env
 /.idea/
 /node_modules/
 /5_express_asyncjs/
 /6_express_heroku/
 /7_mongo/
-/8_HLD/
 /9_jest_queues/
 /10_react_basics/
 /12_react_core/
