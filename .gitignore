@@ -9,5 +9,4 @@ node_modules
 /9_jest_queues/
 /10_react_basics/
 /12_react_core/
-/13_react_core/
-/students/
+/students/*

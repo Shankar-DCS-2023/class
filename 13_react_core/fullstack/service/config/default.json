@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "db": {
+    "url": "localhost:55167",
+    "user": "db_user",
+    "pass": "sb_pass"
+  }
+}
