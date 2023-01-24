@@ -1,17 +1,16 @@
 const env = require('dotenv').config().parsed;
 const config = require('config');
 const express = require('express');
-
-const constants = require('./constants');
-const controller = require('./controllers/idea.ctrl');
 const mongoose = require('mongoose');
 
+const controller = require('./controllers/idea.ctrl');
+
 module.exports = class Server {
-  constructor (options) {
+  constructor (options = {}) {
     this.app = express();
     this.router = express.Router();
     this.config = { ...config, ...options };
-    this.setup(config);
+    this.setup();
   }
 
   setup () {
